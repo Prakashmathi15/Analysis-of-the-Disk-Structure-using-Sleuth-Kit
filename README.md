@@ -15,7 +15,7 @@ Interpret the output of the tools to understand the disk structure, including pa
 ## PROGRAM:
 Sleuth Kit Disk Analysis Commands
 
-✅ Option 1: Create a Sample Disk Image (for Testing)
+
 
 Let’s create a 10MB blank disk image and simulate file system activity:
 
